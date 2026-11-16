@@ -1,0 +1,10 @@
+name: trial_pot
+channels:
+ - conda-forge
+dependencies:
+ - python=3.13
+ - pip
+ - pandas=2.2
+ - matplotlib=3.10
+ - seaborn=0.13
+ - ipykernel
